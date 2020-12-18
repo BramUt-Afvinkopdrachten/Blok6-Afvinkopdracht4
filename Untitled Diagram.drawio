@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-18T09:03:07.580Z" agent="5.0 (Windows)" etag="U9lZ6owsdLz_ZtRwcgrF" version="14.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-18T09:17:21.796Z" agent="5.0 (Windows)" etag="Z6DSIEyqTQo2OOvsBh-o" version="14.0.4" type="github">
   <diagram id="ynSm4ies3AohdqwCY75u" name="Page-1">
-    <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="706" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -285,6 +285,117 @@
         </mxCell>
         <mxCell id="PlGeKxx-NIN7YSxcfEhY-97" value="RU" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1780" y="340" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PlGeKxx-NIN7YSxcfEhY-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PlGeKxx-NIN7YSxcfEhY-98" target="PlGeKxx-NIN7YSxcfEhY-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PlGeKxx-NIN7YSxcfEhY-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PlGeKxx-NIN7YSxcfEhY-98" target="PlGeKxx-NIN7YSxcfEhY-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PlGeKxx-NIN7YSxcfEhY-98" value="Is het land nederland?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PlGeKxx-NIN7YSxcfEhY-99" value="..." style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="690" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PlGeKxx-NIN7YSxcfEhY-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PlGeKxx-NIN7YSxcfEhY-101" target="PlGeKxx-NIN7YSxcfEhY-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PlGeKxx-NIN7YSxcfEhY-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PlGeKxx-NIN7YSxcfEhY-101" target="PlGeKxx-NIN7YSxcfEhY-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PlGeKxx-NIN7YSxcfEhY-101" value="Is de plaats Utrecht?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="690" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PlGeKxx-NIN7YSxcfEhY-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PlGeKxx-NIN7YSxcfEhY-102" target="PlGeKxx-NIN7YSxcfEhY-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PlGeKxx-NIN7YSxcfEhY-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PlGeKxx-NIN7YSxcfEhY-102" target="PlGeKxx-NIN7YSxcfEhY-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PlGeKxx-NIN7YSxcfEhY-102" value="Is het UMC?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PlGeKxx-NIN7YSxcfEhY-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PlGeKxx-NIN7YSxcfEhY-104" target="PlGeKxx-NIN7YSxcfEhY-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PlGeKxx-NIN7YSxcfEhY-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PlGeKxx-NIN7YSxcfEhY-104" target="PlGeKxx-NIN7YSxcfEhY-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PlGeKxx-NIN7YSxcfEhY-104" value="Is de plaats Nijmegen" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PlGeKxx-NIN7YSxcfEhY-106" value="UMC" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="85" y="920" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PlGeKxx-NIN7YSxcfEhY-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PlGeKxx-NIN7YSxcfEhY-108" target="PlGeKxx-NIN7YSxcfEhY-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PlGeKxx-NIN7YSxcfEhY-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PlGeKxx-NIN7YSxcfEhY-108" target="PlGeKxx-NIN7YSxcfEhY-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PlGeKxx-NIN7YSxcfEhY-108" value="Os het GenDx?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="920" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PlGeKxx-NIN7YSxcfEhY-110" value="GenDx" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="165" y="1040" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PlGeKxx-NIN7YSxcfEhY-114" value="Hubrecht Laboratorium" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="325" y="1040" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PlGeKxx-NIN7YSxcfEhY-117" value="Ja" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="760" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PlGeKxx-NIN7YSxcfEhY-118" value="Nee" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="730" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PlGeKxx-NIN7YSxcfEhY-120" value="Ja" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="640" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PlGeKxx-NIN7YSxcfEhY-121" value="Ja" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="870" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PlGeKxx-NIN7YSxcfEhY-122" value="Ja" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="990" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PlGeKxx-NIN7YSxcfEhY-123" value="Nee" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="870" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PlGeKxx-NIN7YSxcfEhY-124" value="Nee" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="650" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PlGeKxx-NIN7YSxcfEhY-126" value="Nee" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="990" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PlGeKxx-NIN7YSxcfEhY-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PlGeKxx-NIN7YSxcfEhY-127" target="PlGeKxx-NIN7YSxcfEhY-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PlGeKxx-NIN7YSxcfEhY-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PlGeKxx-NIN7YSxcfEhY-127" target="PlGeKxx-NIN7YSxcfEhY-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PlGeKxx-NIN7YSxcfEhY-127" value="Is het RU?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="920" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PlGeKxx-NIN7YSxcfEhY-129" value="..." style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="840" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PlGeKxx-NIN7YSxcfEhY-132" value="RU" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1040" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PlGeKxx-NIN7YSxcfEhY-133" value="RUMC" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1040" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PlGeKxx-NIN7YSxcfEhY-136" value="Nee" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="960" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PlGeKxx-NIN7YSxcfEhY-137" value="Nee" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="840" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PlGeKxx-NIN7YSxcfEhY-139" value="Ja" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="880" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PlGeKxx-NIN7YSxcfEhY-140" value="Ja" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1000" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
