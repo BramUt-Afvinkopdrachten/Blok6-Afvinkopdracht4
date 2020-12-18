@@ -1,0 +1,11 @@
+a.
+Ze slaan alleen het verschil met een referentie sequentie op.
+De locaties en bijbehorende verschillen worden vervolgens encoded met bijvoorbeeld Huffman's algoritme.
+
+b.
+Door de consensus sequentie (van het mitochondriaal genoom?) als reference sequence te gebruiken.
+
+c.
+Lossless
+
+d. Ja?
